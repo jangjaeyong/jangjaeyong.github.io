@@ -160,3 +160,5 @@ freewheel.tv, 741650, RESELLER
 indexexchange.com, 214183, RESELLER, 50b1c356f2c5c8fc
 smaato.com, 1100047589, RESELLER, 07bcf65f187117b4
 pubnative.net, 1009458, RESELLER, d641df8625486a7b
+start.io, 131192070, RESELLER
+monetrix.ai, 10761, RESELLER
